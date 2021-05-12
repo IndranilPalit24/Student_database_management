@@ -13,7 +13,7 @@ A Student can enroll in the following courses(example):
   History101
   Mathematics101
   English101
-  Chemistry101
+  Chemistry101.
   Each course cost 600 Rs to enroll.
   
   The student should be able to view their balance and pay the tuition.
