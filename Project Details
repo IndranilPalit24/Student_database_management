@@ -1,10 +1,17 @@
 Abstract:
-Student Management System is software which is helpful for students as well as the school authorities.
-In the current system all the activities are done manually. 
-It is very time consuming and costly. 
-Our Student Management System deals with the various activities related to the students. 
-In the Software we can register as a user and user has of two types, student and administrator. 
-Administrator has the power to add new user and can edit and delete a user. 
-A student can register as user and can add edit and delete his profile. 
-The administrator can add edit and delete marks for the student. 
-All the users can see the marks.
+You are a Database Administrator for a University and need to create an application to manage students
+enrollments and balance.
+
+You application should do the following
+Ask the user how many times new students will be added to the database
+The user should be prompted to enter the name and year of each student
+The student should have a 5-digit unique ID with the first number being their grade level
+A Student can enroll in the following courses(example):
+  History101
+  Mathematics101
+  English101
+  Chemistry101
+  Each course cost 600 Rs to enroll
+  
+  The student should be able to view their balance and pay the tuition
+  To see the status, we should print the students name,ID, courses enrolled and balance
